@@ -5,5 +5,6 @@ int main()
 {
     sub_a();
     sub_b();
+    sub_c();
     return 0;
 }
